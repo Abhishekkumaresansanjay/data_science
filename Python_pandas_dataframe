@@ -1,0 +1,4 @@
+import pandas as p 
+s = ['Raja', 'Rani']  
+df = p.DataFrame(s)  
+print(df)  
